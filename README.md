@@ -1,2 +1,2 @@
 # Trash_Sorting_CNN
-Realtime Trash Sorting Project
+Realtime Trash Sorting Project. I created a convolutional neural network to identify different types of trash (paper, plastic, glass, metal, cardboard) and used the model on a raspberrypi to identify trash in real-time. I had a camera connected to the raspberry pi which would take a picture of the object in front of it. I had code on the raspberry pi that do some image processing and pass it through the machine learning model to identify the category of trash. 
